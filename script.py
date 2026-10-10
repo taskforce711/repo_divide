@@ -1,4 +1,4 @@
-def factores(n)
+def factores(n):
 
 if n % 3 == 0:
     print("Divisible entre 3")
