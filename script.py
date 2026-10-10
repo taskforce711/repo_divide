@@ -13,7 +13,7 @@ else:
 
 
 num = int(input("Da un entero: "))
-factores(num)
+factores(n)
 print("Goodbye)
 
 
