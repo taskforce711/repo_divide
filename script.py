@@ -1,14 +1,19 @@
-num = int(input("Da un entero: "))
+def factores(n)
 
-if num%3 == 0:
+if n % 3 == 0:
     print("Divisible entre 3")
 else:
-    print("No es divisible entre 3")
+    print ("NO es divisible entre 3")
 
-if num%5 == 0:
-    print("Divisible entre 5")
-else:
-    print("No es divisible entre 5")
+  if n % 5 == 0:
+      print("Divisible entre 5")
+  else: 
+      print("NO es divisible entre 5")
 
 
-print("Goodbye")
+
+num = int(input("Da un entero: "))
+print("Goodbye)
+
+
+
