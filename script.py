@@ -13,8 +13,8 @@ else:
 
 
 num = int(input("Da un entero: "))
-factores(n)
-print("Goodbye)
+factores(num)
+print("Goodbye")
 
 
 
