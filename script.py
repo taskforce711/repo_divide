@@ -1,8 +1,8 @@
 def factores(n):
 
-if n % 3 == 0:
+  if n % 3 == 0:
     print("Divisible entre 3")
-else:
+  else:
     print ("NO es divisible entre 3")
 
   if n % 5 == 0:
